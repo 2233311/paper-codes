@@ -1,0 +1,3 @@
+# Optional: required for the LSTM / RNN / GRU rows of the model comparison.
+# Without it, the comparison script skips those learners automatically.
+torch>=2.0
